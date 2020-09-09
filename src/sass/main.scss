@@ -1,0 +1,17 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+@import './global-styles/variables';
+@import './global-styles/fonts';
+@import './global-styles/global-styles';
+
+@import './layout/header';
+@import './layout/hero';
+@import './layout/products';
+@import './layout/how-its-made';
+@import './layout/points-of-sale';
+@import './layout/images';
+@import './layout/feedback';
+@import './layout/footer';
